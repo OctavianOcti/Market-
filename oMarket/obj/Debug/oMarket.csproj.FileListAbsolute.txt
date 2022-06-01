@@ -1,0 +1,522 @@
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe.config
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.pdb
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\EnvDTE.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\stdole.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.csproj.AssemblyReference.cache
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Adjustments.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Alert.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.AnuleazaComanda.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.BrandModule.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Casier.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Categorie.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.CategoryModule.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.ContUtilizator.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.RaportVanzari.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Dashboard.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Discount.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Firma.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Furnizor.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Login.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.LookUpProduct.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Store.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.MainForm.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.POSReport.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.ProductModule.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.ProductStockIn.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Produs.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Recept.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Record.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.SchimbaParola.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.DetaliiUtilizator.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Cantitate.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.ReseteazaParola.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Settle.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.StockIn.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.SupplierModule.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.Void.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.csproj.GenerateResource.cache
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.csproj.CoreCompileInputs.cache
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\oMarket.csproj.CopyComplete
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.exe
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.pdb
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\POSales.exe.config
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\POSales.exe
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\POSales.pdb
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\MetroFramework.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\EnvDTE.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\stdole.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.AssemblyReference.cache
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Modificari.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Alert.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.AnuleazaComanda.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Categorie.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ContUtilizator.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.RaportVanzari.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Discount.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Firma.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Furnizor.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Login.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Store.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ProductStockIn.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Produs.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.SchimbaParola.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.DetaliiUtilizator.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Cantitate.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ReseteazaParola.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.StockIn.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Void.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.GenerateResource.cache
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.CoreCompileInputs.cache
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.CopyComplete
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\POSales.exe
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\POSales.pdb
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulFirma.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.MainformCasier.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulCategorie.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Statistici.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.CautaProdus.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.MainFormAdmin.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.oMarketFactura.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulProdus.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Factura.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Inregistrari.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.GenereazaPlata.resources
+C:\Users\Octi\Desktop\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulFurnizor.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\POSales.exe.config
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\POSales.exe
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\POSales.pdb
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\MetroFramework.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\EnvDTE.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\stdole.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.AssemblyReference.cache
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Modificari.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Alert.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.AnuleazaComanda.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulFirma.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.MainformCasier.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Categorie.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulCategorie.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ContUtilizator.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.RaportVanzari.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Statistici.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Discount.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Firma.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Furnizor.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Login.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.CautaProdus.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Store.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.MainFormAdmin.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.oMarketFactura.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulProdus.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ProductStockIn.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Produs.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Factura.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Inregistrari.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.SchimbaParola.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.DetaliiUtilizator.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Cantitate.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ReseteazaParola.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.GenereazaPlata.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.StockIn.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulFurnizor.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Void.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.GenerateResource.cache
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.CoreCompileInputs.cache
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.CopyComplete
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\POSales.exe
+C:\Users\Octi\Desktop\Desktop2\Magazin\v13\MTP\v12\MTP\oMarket\obj\Debug\POSales.pdb
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.AssemblyReference.cache
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Modificari.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Alert.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.AnuleazaComanda.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulFirma.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.MainformCasier.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Categorie.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulCategorie.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ContUtilizator.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.RaportVanzari.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Statistici.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Discount.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Firma.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Furnizor.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Login.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.CautaProdus.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Store.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.MainFormAdmin.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.oMarketFactura.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulProdus.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Produs.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Factura.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Inregistrari.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.SchimbaParola.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.DetaliiUtilizator.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Cantitate.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ReseteazaParola.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.GenereazaPlata.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ModulFurnizor.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.Void.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.GenerateResource.cache
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.CoreCompileInputs.cache
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\POSales.exe
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\POSales.pdb
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.ProductStockIn.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.StockIn.resources
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\POSales.exe.config
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\POSales.exe
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\POSales.pdb
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\MetroFramework.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\EnvDTE.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\stdole.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\MTP\v13\MTP\v12\MTP\oMarket\obj\Debug\oMarket.csproj.CopyComplete
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.csproj.AssemblyReference.cache
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Modificari.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Alert.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.AnuleazaComanda.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.ModulFirma.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.MainformCasier.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Categorie.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.ModulCategorie.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.ContUtilizator.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.ProductStockIn.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.RaportVanzari.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Statistici.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Discount.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Firma.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Furnizor.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Login.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.CautaProdus.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Store.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.MainFormAdmin.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.oMarketFactura.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.ModulProdus.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Produs.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Factura.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Inregistrari.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.SchimbaParola.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.DetaliiUtilizator.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Cantitate.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.ReseteazaParola.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.GenereazaPlata.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.ModulFurnizor.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.StockIn.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.Void.resources
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.csproj.GenerateResource.cache
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.csproj.CoreCompileInputs.cache
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\POSales.exe
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\POSales.pdb
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Database1.mdf
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Database1_log.ldf
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\POSales.exe.config
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\POSales.exe
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\POSales.pdb
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\MetroFramework.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\EnvDTE.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\stdole.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Proiect Magazin\oMarket\obj\Debug\oMarket.csproj.CopyComplete

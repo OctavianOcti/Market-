@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>POSales</RootNamespace>
+    <AssemblyName>POSales</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Modificari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificari.Designer.cs">
+      <DependentUpon>Modificari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alerta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alerta.Designer.cs">
+      <DependentUpon>Alerta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnuleazaComanda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnuleazaComanda.Designer.cs">
+      <DependentUpon>AnuleazaComanda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulFirma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulFirma.Designer.cs">
+      <DependentUpon>ModulFirma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainformCasier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainformCasier.Designer.cs">
+      <DependentUpon>MainformCasier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorie.Designer.cs">
+      <DependentUpon>Categorie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulCategorie.Designer.cs">
+      <DependentUpon>ModulCategorie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContUtilizator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContUtilizator.Designer.cs">
+      <DependentUpon>ContUtilizator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductStockIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductStockIn.Designer.cs">
+      <DependentUpon>ProductStockIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaportVanzari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaportVanzari.Designer.cs">
+      <DependentUpon>RaportVanzari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistici.Designer.cs">
+      <DependentUpon>Statistici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnect.cs" />
+    <Compile Include="Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Discount.Designer.cs">
+      <DependentUpon>Discount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Firma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Firma.Designer.cs">
+      <DependentUpon>Firma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Furnizor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Furnizor.Designer.cs">
+      <DependentUpon>Furnizor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CautaProdus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CautaProdus.Designer.cs">
+      <DependentUpon>CautaProdus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Magazin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Magazin.Designer.cs">
+      <DependentUpon>Magazin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFormAdmin.Designer.cs">
+      <DependentUpon>MainFormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oMarketFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oMarketFactura.Designer.cs">
+      <DependentUpon>oMarketFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulProdus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulProdus.Designer.cs">
+      <DependentUpon>ModulProdus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produs.Designer.cs">
+      <DependentUpon>Produs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Factura.Designer.cs">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inregistrari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inregistrari.Designer.cs">
+      <DependentUpon>Inregistrari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SchimbaParola.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SchimbaParola.Designer.cs">
+      <DependentUpon>SchimbaParola.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="StockIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockIn.Designer.cs">
+      <DependentUpon>StockIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemeColor.cs" />
+    <Compile Include="DetaliiUtilizator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetaliiUtilizator.Designer.cs">
+      <DependentUpon>DetaliiUtilizator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Cantitate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cantitate.Designer.cs">
+      <DependentUpon>Cantitate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReseteazaParola.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReseteazaParola.Designer.cs">
+      <DependentUpon>ReseteazaParola.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenereazaPlata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenereazaPlata.Designer.cs">
+      <DependentUpon>GenereazaPlata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulFurnizor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulFurnizor.Designer.cs">
+      <DependentUpon>ModulFurnizor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Void.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Void.Designer.cs">
+      <DependentUpon>Void.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Modificari.resx">
+      <DependentUpon>Modificari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alerta.resx">
+      <DependentUpon>Alerta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnuleazaComanda.resx">
+      <DependentUpon>AnuleazaComanda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulFirma.resx">
+      <DependentUpon>ModulFirma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainformCasier.resx">
+      <DependentUpon>MainformCasier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categorie.resx">
+      <DependentUpon>Categorie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulCategorie.resx">
+      <DependentUpon>ModulCategorie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContUtilizator.resx">
+      <DependentUpon>ContUtilizator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductStockIn.resx">
+      <DependentUpon>ProductStockIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaportVanzari.resx">
+      <DependentUpon>RaportVanzari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistici.resx">
+      <DependentUpon>Statistici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Discount.resx">
+      <DependentUpon>Discount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Firma.resx">
+      <DependentUpon>Firma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Furnizor.resx">
+      <DependentUpon>Furnizor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CautaProdus.resx">
+      <DependentUpon>CautaProdus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Magazin.resx">
+      <DependentUpon>Magazin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFormAdmin.resx">
+      <DependentUpon>MainFormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oMarketFactura.resx">
+      <DependentUpon>oMarketFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulProdus.resx">
+      <DependentUpon>ModulProdus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produs.resx">
+      <DependentUpon>Produs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Factura.resx">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inregistrari.resx">
+      <DependentUpon>Inregistrari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptCancelled.rdlc" />
+    <EmbeddedResource Include="rptInventory.rdlc" />
+    <EmbeddedResource Include="rptSoldItems.rdlc" />
+    <EmbeddedResource Include="rptStockInHist.rdlc" />
+    <EmbeddedResource Include="rptTopSell.rdlc" />
+    <EmbeddedResource Include="rptRecept.rdlc" />
+    <EmbeddedResource Include="rptSoldReport.rdlc" />
+    <EmbeddedResource Include="SchimbaParola.resx">
+      <DependentUpon>SchimbaParola.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetaliiUtilizator.resx">
+      <DependentUpon>DetaliiUtilizator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cantitate.resx">
+      <DependentUpon>Cantitate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReseteazaParola.resx">
+      <DependentUpon>ReseteazaParola.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenereazaPlata.resx">
+      <DependentUpon>GenereazaPlata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulFurnizor.resx">
+      <DependentUpon>ModulFurnizor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockIn.resx">
+      <DependentUpon>StockIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Void.resx">
+      <DependentUpon>Void.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Image\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

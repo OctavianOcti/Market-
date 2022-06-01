@@ -1,0 +1,521 @@
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\POSales.exe.config
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\POSales.exe
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\POSales.pdb
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.exe
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.pdb
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.MainForm.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Brand.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.BrandModule.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Category.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.CategoryModule.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Product.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.ProductModule.resources
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\MetroFramework.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.csproj.CopyComplete
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Supplier.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.SupplierModule.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.UserAccount.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Cashier.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.LookUpProduct.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Qty.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.ProductStockIn.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.StockIn.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Discount.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Settle.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Login.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.DailySale.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.CancelOrder.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Void.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.ChangePassword.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Store.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.ResetPassword.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.UserProperties.resources
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Recept.resources
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\EnvDTE.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\stdole.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\RdlCompile.cache
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\RdlCompile.compiled
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.POSReport.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Adjustments.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Record.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Dashboard.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Alert.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe.config
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\POSales.pdb
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Design.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Fonts.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\EnvDTE.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\stdole.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.MSXML.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.SuggestedBindingRedirects.cache
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Adjustments.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Alert.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.BrandModule.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.CategoryModule.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Dashboard.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Discount.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Login.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.LookUpProduct.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.MainForm.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.POSReport.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ProductModule.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ProductStockIn.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Recept.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Record.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Properties.Resources.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Settle.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.StockIn.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Store.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.SupplierModule.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Void.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.CopyComplete
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.exe
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.pdb
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Firma.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Casier.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Categorie.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ContUtilizator.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.AnuleazaComanda.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Furnizor.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.SchimbaParola.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.DetaliiUtilizator.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Produs.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.RaportVanzari.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Cantitate.resources
+E:\Programe Visual Studio\MTP\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ReseteazaParola.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe.config
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.pdb
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\EnvDTE.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\stdole.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Adjustments.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Alert.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.AnuleazaComanda.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.BrandModule.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Casier.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Categorie.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.CategoryModule.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ContUtilizator.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.RaportVanzari.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Dashboard.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Discount.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Firma.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Furnizor.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Login.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.LookUpProduct.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Store.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.MainForm.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.POSReport.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ProductModule.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ProductStockIn.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Produs.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Recept.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Record.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.SchimbaParola.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.DetaliiUtilizator.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Cantitate.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ReseteazaParola.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Settle.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.StockIn.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.SupplierModule.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Void.resources
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.CopyComplete
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.exe
+C:\Users\Octi\Desktop\Magazin\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.pdb
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe.config
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.pdb
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\EnvDTE.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\stdole.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Adjustments.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Alert.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.AnuleazaComanda.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.BrandModule.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Casier.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Categorie.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.CategoryModule.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ContUtilizator.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.RaportVanzari.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Dashboard.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Discount.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Firma.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Furnizor.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Login.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.LookUpProduct.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Store.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.MainForm.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.POSReport.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ProductModule.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ProductStockIn.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Produs.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Recept.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Record.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.SchimbaParola.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.DetaliiUtilizator.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Cantitate.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ReseteazaParola.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Settle.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.StockIn.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.SupplierModule.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Void.resources
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.CopyComplete
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.exe
+C:\Users\Octi\Desktop\Desktop2\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.pdb
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe.config
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.exe
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\POSales.pdb
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\EnvDTE.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\stdole.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Adjustments.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Alert.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.AnuleazaComanda.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.BrandModule.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Casier.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Categorie.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.CategoryModule.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ContUtilizator.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.RaportVanzari.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Dashboard.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Discount.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Firma.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Furnizor.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Login.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.LookUpProduct.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Store.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.MainForm.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.POSReport.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ProductModule.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ProductStockIn.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Produs.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Recept.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Record.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.SchimbaParola.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.DetaliiUtilizator.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Cantitate.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.ReseteazaParola.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Settle.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.StockIn.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.SupplierModule.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.Void.resources
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.csproj.CopyComplete
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.exe
+C:\Users\Octi\Desktop\Magazin\v6\v3\Magazin\POSales\POSales\POSales\obj\Debug\POSales.pdb
