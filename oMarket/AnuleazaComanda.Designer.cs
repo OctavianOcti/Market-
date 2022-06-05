@@ -269,29 +269,29 @@ namespace oMarket
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(29, 394);
+            this.label11.Location = new System.Drawing.Point(2, 394);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(147, 20);
+            this.label11.Size = new System.Drawing.Size(172, 20);
             this.label11.TabIndex = 12;
-            this.label11.Text = "Add To Inventory ?";
+            this.label11.Text = "Adaugati la inventar ?";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(29, 354);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(115, 20);
+            this.label12.Size = new System.Drawing.Size(88, 20);
             this.label12.TabIndex = 13;
-            this.label12.Text = "Cancelled By :";
+            this.label12.Text = "Anulat de :";
             // 
             // label13
             // 
             this.label13.AutoSize = true;
             this.label13.Location = new System.Drawing.Point(29, 314);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(72, 20);
+            this.label13.Size = new System.Drawing.Size(84, 20);
             this.label13.TabIndex = 14;
-            this.label13.Text = "Void By :";
+            this.label13.Text = "Anulat de:";
             // 
             // cboInventory
             // 

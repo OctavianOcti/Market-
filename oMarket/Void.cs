@@ -31,7 +31,7 @@ namespace oMarket
             {
                 if (txtUsername.Text.ToLower() == cancelOrder.txtCancelBy.Text.ToLower())
                 {
-                    MessageBox.Show("Void by name and cancelled by name are same!. Please void by another person.", "Atentionare", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Introduceti numele altei persoane.", "Atentionare", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
                 string user;
